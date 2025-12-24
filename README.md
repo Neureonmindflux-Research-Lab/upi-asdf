@@ -1,5 +1,7 @@
-# UPI-ASDF
-Unified Physics-Informed AeroSpace Design Framework
+<p align="center">
+  <img src="assets/logo.png" alt="UPI-ASDF Logo" width="">
+</p>
+
 
 ## Overview
 PI-ASDF is a unified physics-informed AI framework for aero-space simulation
