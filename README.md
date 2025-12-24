@@ -1,4 +1,4 @@
-# PI-ASDF
+# UPI-ASDF
 Unified Physics-Informed AeroSpace Design Framework
 
 ## Overview
