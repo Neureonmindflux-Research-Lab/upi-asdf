@@ -10,7 +10,7 @@ to accelerate engineering workflows while preserving physical consistency.
 
 ## Key Features
 - Physics-informed learning with conservation laws
-- Multi-regime aero-space support (subsonic to hypersonic)
+- Multi-regime aerospace support (subsonic to hypersonic)
 - Native inverse design capabilities
 - Solver-aware integration with CFD
 - Modular and reusable architecture
