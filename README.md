@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="UPI-ASDF Logo" width="">
+  <img src="assets/logo.svg" alt="UPI-ASDF Logo" width="">
 </p>
 
 
