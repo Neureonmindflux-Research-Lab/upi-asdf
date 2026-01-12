@@ -1,0 +1,9 @@
+kind: mixture
+name: air5
+basis: mass
+composition:
+  N2: 0.767
+  O2: 0.233
+  NO: 0.0
+  N: 0.0
+  O: 0.0
