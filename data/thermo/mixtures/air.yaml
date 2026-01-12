@@ -1,0 +1,7 @@
+kind: mixture
+name: air
+basis: mass
+
+composition:
+  N2: 0.767
+  O2: 0.233
